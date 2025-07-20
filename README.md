@@ -1,0 +1,3 @@
+Reto de Alura Oracle One "Literalura" que pone en práctica los conceptos de programación web con Java, Springboot, JPA. Haciendo uso de Jackson para la transformación de los objetos JSON. Así también haciendo uso de Anotaciones, JPQL y PostgreSQL para gestionar el almacenamiento y solicitud de los datos almacenados de manera local.
+
+Para hacer uso del proyecto es necesario descargarlo y crear la base de datos. No es necesario crear ninguna tabla dentro de dicha base de datos ya que JPA se encargará de crear cada entidad al momento de hacer una requisición. También es necesario configurar el nombre de las variables de entorno en tu equipo o bien sustituir los valores en el archivo properties como el nombre de usuario, la contraseña, el nombre de la base de datos, etc. 
